@@ -1,4 +1,4 @@
-Web Application Using Ansible CHALLENGE
+Web Application Using Ansible 
 
 Course-end Project 2
 
