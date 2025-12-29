@@ -1,0 +1,6 @@
+
+app_name: DevOpsBlog
+nginx_root: /var/www/devopsblog
+app_port: 80
+git_repo: "https://github.com/Ebosterix/ansible-Course-end-Project-2.git"  
+git_version: "main" 
