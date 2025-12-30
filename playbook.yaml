@@ -1,0 +1,6 @@
+---
+- name: Deploy Blogging Application from GitHub
+  hosts: webservers
+  become: yes
+  roles:
+    - app_deploy
